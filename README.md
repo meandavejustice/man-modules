@@ -64,5 +64,9 @@ together into one big `modulename.1` file.
 
 If you have any suggestions for this please open an issue!
 
+## Thanks
+
+Much appreciation to [@chrisdickinson](https://github.com/chrisdickinson) & [@justinabrahms](https://github.com/justinabrahms) for the inspiration.
+
 ## LICENSE
 [MIT](https://github.com/meandavejustice/man-modules/raw/master/LICENSE)
