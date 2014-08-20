@@ -1,0 +1,7 @@
+usage: man-modules {OPTIONS}
+
+  Generate man pages for each module installed in your local node_modules.
+
+OPTIONS are:
+
+  -h, --help   Display this usage info

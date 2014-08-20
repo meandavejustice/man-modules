@@ -1,0 +1,45 @@
+{
+  "name": "man-modules",
+  "version": "0.1.0",
+  "description": "Generate man pages for all top-level node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://www.npmjs.org/package/man-modules",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meandavejustice/man-modules.git"
+  },
+  "bin": {
+    "man-modules": "./bin/bin.js"
+  },
+  "author": "meandave",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^0.6.2",
+    "ls-stream": "^1.0.0",
+    "marked-man": "^0.1.3",
+    "minimist": "^1.1.0",
+    "mkdirp": "^0.5.0",
+    "pygmentize-bundled": "^2.1.1",
+    "rimraf": "^2.2.8",
+    "through": "^2.3.4"
+  },
+  "bugs": {
+    "url": "https://github.com/meandavejustice/man-modules/issues"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "manpage",
+    "man",
+    "woman",
+    "node_modules",
+    "modules",
+    "terminal",
+    "help",
+    "readme",
+    "documentation",
+    "roff"
+  ]
+}
