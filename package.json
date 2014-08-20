@@ -1,6 +1,6 @@
 {
   "name": "man-modules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate man pages for all top-level node_modules",
   "main": "index.js",
   "scripts": {
