@@ -4,6 +4,7 @@
   "description": "Generate man pages for all top-level node_modules",
   "main": "index.js",
   "scripts": {
+    "postinstall": "man-modules && node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://www.npmjs.org/package/man-modules",
