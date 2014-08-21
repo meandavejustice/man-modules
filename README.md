@@ -37,7 +37,7 @@ echo "MANPATH=:/home/meandave/Code/man-modules/node_modules/.man; export MANPATH
 ```
 This will be printed into the terminal after running `man-modules`.
 
-![](scrot.png)
+![](https://raw.githubusercontent.com/meandavejustice/man-modules/master/scrot.png)
 
 ## manpage numbers
 
